@@ -1,0 +1,30 @@
+h1 {
+	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+	color: #4aaaa5;
+	font-size: 2.0em;
+}
+
+h2 {
+	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+	color: #4aaaa5;
+}
+
+body {
+	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+	color: #777777;
+}
+.content-all{
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+.img-responsive {
+	margin-bottom: 5%;
+
+}
+#footer-text {
+	margin-top: 1%;
+}
+#profile-picture {
+	width: 25%;
+	margin: 0 2% 1% 0;
+}
